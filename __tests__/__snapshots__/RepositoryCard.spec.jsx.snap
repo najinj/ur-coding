@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RepositoryCard renders correctly 1`] = `
+<styled.div
+  className="repo-container"
+>
+  <div
+    className="avatar-container"
+  >
+    <styled.img
+      alt="avatar_url"
+      src="https://avatars1.githubusercontent.com/u/1342004?v=4"
+    />
+  </div>
+  <styled.div
+    className="repo-details"
+  >
+    <h5>
+      eng-practices
+    </h5>
+    <p>
+      Google's Engineering Practices documentation
+    </p>
+    <div
+      className="repo-rating"
+    >
+      <div
+        className="repo-stars"
+      >
+        <span>
+          Stars : 
+          6297
+        </span>
+      </div>
+      <div
+        className="repo-issues"
+      >
+        <span>
+          Issues : 
+          4
+        </span>
+      </div>
+      <div
+        className="repo-last-update"
+      >
+        <span>
+          Submited 
+          2019-09-11T20:31:15Z
+           ago by 
+        </span>
+      </div>
+    </div>
+  </styled.div>
+</styled.div>
+`;
