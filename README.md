@@ -1,7 +1,12 @@
 # ur-coding
 Coding challenge , 
 fetching data using the github api
-using : React,Redux,Webpack,Babel,Jest,Enzyme,
+ -React,
+ -Redux
+ -Webpack
+ -Babel
+ -Jest
+ -Enzyme....
 # To start application run 
   yarn dev-server 
 # For build production of dev 
