@@ -5,6 +5,7 @@ import apiData from "../data";
 
 test("get repos from api", done => {
   const dispatchMock = jest.fn();
+  process.env.NODE_ENV = 'development';
   moxios.withMock(() => {
     getData(1, "2019-08-12")(dispatchMock);
     moxios.wait(() => {
