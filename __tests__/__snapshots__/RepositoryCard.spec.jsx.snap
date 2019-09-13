@@ -29,7 +29,7 @@ exports[`RepositoryCard renders correctly 1`] = `
       >
         <span>
           Stars : 
-          6297
+          6914
         </span>
       </div>
       <div
@@ -45,7 +45,7 @@ exports[`RepositoryCard renders correctly 1`] = `
       >
         <span>
           Submited 
-          2019-09-11T20:31:15Z
+          2019-09-13T14:01:39Z
            ago by 
         </span>
       </div>
